@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\source\\interactionplugin\\private\\interactcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\deathrundev\\project8inf916\\intermediate\\build\\win64\\project8inf916editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\intermediate\\build\\win64\\unrealeditor\\development\\interactionplugin\\definitions.interactionplugin.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\source\\interactionplugin\\public\\interactcomponent.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\source\\interactionplugin\\public\\interactive.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionplugin\\uht\\interactive.generated.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionplugin\\uht\\interactcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InteractionPlugin.cpp.obj": [
+			"InteractComponent.gen.cpp.obj",
+			"InteractionPlugin.init.gen.cpp.obj",
+			"Interactive.gen.cpp.obj",
+			"InteractiveActor.gen.cpp.obj",
+			"InteractComponent.cpp.obj",
+			"InteractionPlugin.cpp.obj",
+			"Interactive.cpp.obj",
+			"InteractiveActor.cpp.obj"
+		]
+	}
+}

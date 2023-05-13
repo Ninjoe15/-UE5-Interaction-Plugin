@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\source\\interactionplugin\\private\\interactiveactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\deathrundev\\project8inf916\\intermediate\\build\\win64\\project8inf916editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\intermediate\\build\\win64\\unrealeditor\\development\\interactionplugin\\definitions.interactionplugin.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\source\\interactionplugin\\public\\interactiveactor.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\source\\interactionplugin\\public\\interactcomponent.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\source\\interactionplugin\\public\\interactive.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionplugin\\uht\\interactive.generated.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionplugin\\uht\\interactcomponent.generated.h",
+            "c:\\deathrundev\\project8inf916\\plugins\\interactionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionplugin\\uht\\interactiveactor.generated.h",
+            "c:\\users\\théo\\documents\\ue\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\users\\théo\\documents\\ue\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\users\\théo\\documents\\ue\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\users\\théo\\documents\\ue\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\users\\théo\\documents\\ue\\ue_5.1\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "c:\\users\\théo\\documents\\ue\\ue_5.1\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

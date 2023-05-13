@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InteractionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\DeathRunDev\Project8INF916\Intermediate\Build\Win64\Project8INF916Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\DeathRunDev\Project8INF916\Plugins\InteractionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\InteractionPlugin\Module.InteractionPlugin.cpp.obj"
+"C:\DeathRunDev\Project8INF916\Plugins\InteractionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\InteractionPlugin\Default.rc2.res"
+/OUT:"C:\DeathRunDev\Project8INF916\Plugins\InteractionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\InteractionPlugin\UnrealEditor-InteractionPlugin.lib"
